@@ -15,6 +15,11 @@ Click on the gear icon to show the Editor Notes settings where you can change th
 ![screenshot](https://user-images.githubusercontent.com/837362/30640573-bb962954-9e03-11e7-88e9-1d03f2379195.png)
 
 
+# How to install
 
+ - Download this file
+ - Drag & drop `EdNotes > Assets > EdNotes` on Unity project
+ 
+October 24, 2022, I have confirmed that it works with Unity 2019.4.22f1.
 
 
